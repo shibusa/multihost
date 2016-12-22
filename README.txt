@@ -6,6 +6,7 @@ I.E. Pull IP addresses for multiple websites or check system states for multiple
 REQUIREMENTS:
 - python on local system
 - BASH on local and remote system
+- ssh-key authentication of remote systems
 
 FIRST RUN:
 1. Locate core.py file
