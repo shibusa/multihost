@@ -1,6 +1,6 @@
 # Multihost
 
-[![Alt text](https://img.youtube.com/vi/MpfbppLUYtA/2.jpg)](https://www.youtube.com/embed/MpfbppLUYtA?rel=0;autohide=1;showinfo=0;color=white;cc_load_policy=1)
+[![Alt text](https://img.youtube.com/vi/MpfbppLUYtA/maxresdefault.jpg)](https://www.youtube.com/embed/MpfbppLUYtA?rel=0;autohide=1;showinfo=0;color=white;cc_load_policy=1)
 
 BASH query tool written in Python.
 
